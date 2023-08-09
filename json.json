@@ -1,0 +1,16 @@
+[
+    {
+        "url": "http://127.0.0.1:8000/api/todolist-detail/1?format=json",
+        "title": "Lavar a ouça",
+        "description": "Lavar a ouça",
+        "date_created": "2023-08-21T12:12:00Z",
+        "done": false
+    },
+    {
+        "url": "http://127.0.0.1:8000/api/todolist-detail/2?format=json",
+        "title": "Cozinhar",
+        "description": "Cozinhar",
+        "date_created": "2023-08-16T01:01:00Z",
+        "done": false
+    }
+]
